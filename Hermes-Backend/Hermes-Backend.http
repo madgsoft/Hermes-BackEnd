@@ -1,6 +1,0 @@
-@Hermes_Backend_HostAddress = http://localhost:5151
-
-GET {{Hermes_Backend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
