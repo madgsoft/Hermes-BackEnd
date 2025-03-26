@@ -1,0 +1,12 @@
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Hermes-Backend
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Hermes-Backend.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Hermes-Backend.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Hermes-Backend.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Hermes-Backend.pdb
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
