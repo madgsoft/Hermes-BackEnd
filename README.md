@@ -2,13 +2,6 @@
 
 This is a **.NET 8 Web API** project called **Hermes-Backend**.
 
-## 🚀 Prerequisites
-
-Before running the project, make sure you have installed:
-
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download)
-- A code editor such as [Visual Studio Code](https://code.visualstudio.com/)
-
 ## 🚀 Installation and Execution
 
 ### 1️⃣ Clone the repository
@@ -23,28 +16,6 @@ Run the following command to install the necessary packages:
 dotnet restore
 ```
 
-## 🛠 Test Endpoint
-A test endpoint has been created in Controllers/HelloController.cs:
-
-```sh
-using Microsoft.AspNetCore.Mvc;
-
-namespace Hermes_Backend.Controllers
-{
-    [Route("api/[controller]")]
-    [ApiController]
-    public class HelloController : ControllerBase
-    {
-        [HttpGet]
-        public IActionResult Get()
-        {
-            return Ok(new { message = "Hola desde Hermes-Backend!" });
-        }
-    }
-}
-
-```
-
 ### 3️⃣ Run the project
 To start the API, use the following command:
 ```sh
@@ -52,17 +23,23 @@ dotnet run
 ```
 
 ## 📌 Test the endpoint
-You can test the endpoint in Postman or in the browser by visiting:
+
 ```sh
-http://localhost:5151/api/hello
+http://localhost:xxxx/weatherforecast
 ```
 
-It should return the following JSON response:
+## 🛠️ Build and Run the Docker Container
+
+1️⃣ Build the image:
 ```sh
-{
-  "message": "Hello from Hermes-Backend!"
-}
+dotnet publish -c Release -p:PublishProfile=DefaultContainer
 ```
+2️⃣ Run the container:
+```sh
+docker run -d -p 5000:8080 --name hermes-backend hermes-backend
+```
+📌 This will run the webapi and make it accessible at http://localhost:5000/weatherforecast.
+
 
 
 
