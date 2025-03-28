@@ -32,3 +32,9 @@ C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\obj\Debug\net
 C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\obj\Debug\net8.0\Hermes-Backend.pdb
 C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\obj\Debug\net8.0\Hermes-Backend.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\obj\Debug\net8.0\ref\Hermes-Backend.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Debug\net8.0\Moq.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Usuario\OneDrive\Documentos\Hermes-BackEnd\Hermes-Backend\bin\Debug\net8.0\xunit.execution.dotnet.dll
