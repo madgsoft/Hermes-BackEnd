@@ -9,7 +9,6 @@ builder.Services.AddScoped<WeatherService>();
 
 var app = builder.Build();
 
-// Configuración del pipeline de middleware
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
